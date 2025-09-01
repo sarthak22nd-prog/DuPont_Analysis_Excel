@@ -48,6 +48,7 @@ A full breakdown of the calculated ratios and their impact on the company can be
 
 
 #Project Files
+
 Jubilant_Foodworks_DuPont_Analysis.xlsx: The original Excel spreadsheet containing all data, calculations, and formulas.
 
 Jubilant_Foodworks_DuPont_Analysis.pdf: A static PDF version of the key analysis sheets for easy viewing.
