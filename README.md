@@ -47,7 +47,7 @@ It also shows that the Equity multiplier has been increasing since COVID, which 
 A full breakdown of the calculated ratios and their impact on the company can be found in the Excel sheet. 
 
 
-#Project Files
+#Project Files:
 
 Jubilant_Foodworks_DuPont_Analysis.xlsx: The original Excel spreadsheet containing all data, calculations, and formulas.
 
